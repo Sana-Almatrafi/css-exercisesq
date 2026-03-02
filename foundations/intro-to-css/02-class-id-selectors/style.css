@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-elemnt{
+    background-color: hotpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second{
+    color: blue;
+    font-size: 36px;
+}
+.font24{
+    font-size: 24px;
+}
+#fourth{
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
